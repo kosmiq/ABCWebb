@@ -10,5 +10,7 @@ Genesis is required for this theme to work (http://www.studiopress.com/) and Wor
 
 To see it in action (and use) please visit http://www.abcwebb.se
 
+Feel free to use bits and pieces as you like (for the fonts, please see their respective licenses). Please do not simply copy/paste the theme. Use it and do something good of it for yourself.
+
 Theme has been created by Tor Raswill.
 ABCWebb is owned and operated by Nordic e-handel KB.
