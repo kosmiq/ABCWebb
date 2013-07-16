@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CleanWhite\n"
+"POT-Creation-Date: 2013-03-17 10:59+0100\n"
+"PO-Revision-Date: 2013-03-17 10:59+0100\n"
+"Last-Translator: Tor Raswill <tor@raswill.se>\n"
+"Language-Team:  <tor@raswill.se>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive-portfolio.php:58 functions.php:297 functions.php:298
+#: single-portfolio.php:41
+msgid "Portfolio"
+msgstr ""
+
+#: archive-portfolio.php:70
+msgid "All"
+msgstr ""
+
+#: functions.php:171
+msgid "Newer posts"
+msgstr ""
+
+#: functions.php:177
+msgid "Older posts"
+msgstr ""
+
+#: functions.php:204
+#, php-format
+msgid "Thoughts about \"%s\""
+msgstr ""
+
+#: functions.php:212
+#, php-format
+msgid "Leave a thought about \"%s\""
+msgstr ""
+
+#: functions.php:233
+msgid "Read more &raquo;"
+msgstr ""
+
+#: functions.php:239
+msgid "Home"
+msgstr ""
+
+#: functions.php:247
+msgid "You are here: "
+msgstr ""
+
+#: functions.php:248 functions.php:249 functions.php:250 functions.php:251
+#: functions.php:253 functions.php:254
+msgid "Archive for "
+msgstr ""
+
+#: functions.php:252
+msgid "Search for "
+msgstr ""
+
+#: functions.php:255
+msgid "Not found "
+msgstr ""
+
+#: functions.php:268
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: functions.php:272
+#, php-format
+msgid "View all posts in %1$s %2$s"
+msgstr ""
+
+#: functions.php:275
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
